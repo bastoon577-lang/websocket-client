@@ -14,12 +14,12 @@ After that, you can use script by using :
     python websocket.py
 <!--endsec-->
 
-Finally, inform IP address following by WebSocket port of the equippement and then <b>ENTER</b>:
+Finally, inform IP address following by WebSocket port of the equippement and then <b>ENTER</b> :
 <!--sec data-title="Prompt: macOS and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     Entrez l'adresse IP ou le hostname du serveur WebSocket (ex: 192.168.1.10:8765):
 <!--endsec-->
 
-In the [Module TIC](https://github.com/bastoon577-lang/Module-TIC-SOFTWARE) context, you could see following data on terminal:
+In the [Module TIC](https://github.com/bastoon577-lang/Module-TIC-SOFTWARE) context, you could see following data on terminal :
 <!--sec data-title="Prompt: macOS and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     Tentative de connexion à ws://192.168.43.113:81 ...                                
     Connecté au serveur WebSocket.                                                      
