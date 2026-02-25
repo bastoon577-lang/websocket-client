@@ -31,3 +31,5 @@ In the [Module TIC](https://github.com/bastoon577-lang/Module-TIC-SOFTWARE) cont
     Message reçu : {"ISOUSC":"30"}                                                     
     Message reçu : {"PTEC":"HP.."}
 <!--endsec-->
+
+###### Auteur : *Sébastien DALIGAULT*. 
