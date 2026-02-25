@@ -13,3 +13,8 @@ After that, you can use script by using :
 <!--sec data-title="Prompt: macOS and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
     python websocket.py
 <!--endsec-->
+
+Finally, inform IP address following by WebSocket port of the equippement and then <b>ENTER</b>:
+<!--sec data-title="Prompt: macOS and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
+    Entrez l'adresse IP ou le hostname du serveur WebSocket (ex: 192.168.1.10:8765):
+<!--endsec-->
