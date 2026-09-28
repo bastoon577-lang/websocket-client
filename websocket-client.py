@@ -13,7 +13,7 @@ class AppTIC(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title("Lecteur WebSocket TIC")
+        self.title("Lecteur WebSocket TIC v1.0")
         self.geometry("750x620")
 
         # État centralisé des dernières valeurs reçues {Etiquette: Valeur}
