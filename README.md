@@ -1,35 +1,30 @@
-# websocket client
-That tools is a rudimentary development for reading data through a websocket.
+<p align="center">
+  <!-- Ko-fi badge -->
+  <a href="https://Ko-fi.com/bastoon577lang">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
 
-# How to use websocket script ?
-In first time, it's necessary to install websockets by using pip with the following command line :
+  <!-- Buy Me a Coffee badge -->
+  <a href="https://buymeacoffee.com/bastoon577lang">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow?logo=buymeacoffee&logoColor=white" alt="Buy Me a Coffee">
+  </a>
 
-<!--sec data-title="Prompt: macOS and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    pip install websockets
-<!--endsec-->
+  <!-- PayPal badge -->
+  <a href="https://www.paypal.com/donate?hosted_button_id=4CDVJA8LLUR78">
+    <img src="https://img.shields.io/badge/PayPal-Donate-blue?logo=paypal&logoColor=white" alt="PayPal">
+  </a>
+</p>
 
-After that, you can use script by using :
+# WebSocket Client
 
-<!--sec data-title="Prompt: macOS and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    python websocket.py
-<!--endsec-->
+L'utilitaire WebSocket Client permet la connexion et la lecture en temps réel des données issues d'un serveur WebSocket.
 
-Finally, inform IP address following by WebSocket port of the equippement and then <b>ENTER</b> :
-<!--sec data-title="Prompt: macOS and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    Entrez l'adresse IP ou le hostname du serveur WebSocket (ex: 192.168.1.10:8765):
-<!--endsec-->
+En conséquence, dans le contexte d'interaction avec le [Module TIC](https://github.com/bastoon577-lang/Module_TIC/wiki), cet utilitaire permet de lire les données exposées par le compteur électrique, au travers du Module TIC.
 
-In the [Module TIC](https://github.com/bastoon577-lang/Module-TIC-SOFTWARE) context, you could see following data on terminal :
-<!--sec data-title="Prompt: macOS and Linux" data-id="OSX_Linux_prompt" data-collapse=true ces-->
-    Tentative de connexion à ws://192.168.43.113:81 ...                                
-    Connecté au serveur WebSocket.                                                      
-    En attente de messages...
-    Message reçu : {"HHPHC":"A"}                                                        
-    Message reçu : {"BASE":"002844816"}                                                 
-    Message reçu : {"ADCO":"022064215196"}                                             
-    Message reçu : {"HCHC":"034366502"}                                                
-    Message reçu : {"ISOUSC":"30"}                                                     
-    Message reçu : {"PTEC":"HP.."}
-<!--endsec-->
+<div align="center">
+  <picture>
+    <img src="https://github.com/user-attachments/assets/33e8a8bc-22e2-47ea-8842-d9c6509b3d4d" alt="IHM"/>
+  </picture>
+</div>
 
-###### Auteur : *Sébastien DALIGAULT*. 
+#### Auteur : *Sébastien DALIGAULT*. 
