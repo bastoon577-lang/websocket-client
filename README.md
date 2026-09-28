@@ -27,4 +27,8 @@ En conséquence, dans le contexte d'interaction avec le [Module TIC](https://git
   </picture>
 </div>
 
+# Expert - Contribution
+
+Si vous souhaitez contribuer au projet, je met à disposition le wiki de [contribution](https://github.com/bastoon577-lang/websocket-client/wiki/Contribution)
+
 #### Auteur : *Sébastien DALIGAULT*. 
